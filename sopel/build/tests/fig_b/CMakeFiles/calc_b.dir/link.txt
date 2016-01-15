@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/calc_b.dir/calc.cpp.o  -o calc_b -rdynamic -lboost_system -lboost_timer -lboost_filesystem 

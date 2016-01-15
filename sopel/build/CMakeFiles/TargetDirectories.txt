@@ -1,0 +1,8 @@
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_a/CMakeFiles/calc.dir
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_b/CMakeFiles/calc_b.dir
+/home/pracownicy/azimniak/magister/sopel/build/src/CMakeFiles/icicle.dir
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_c/CMakeFiles/plot.dir
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_a/CMakeFiles/plot_blk_1m.dir
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_a/CMakeFiles/plot_blk_2m.dir
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_a/CMakeFiles/plot_lgrngn.dir
+/home/pracownicy/azimniak/magister/sopel/build/tests/fig_a/CMakeFiles/plot_lgrngn_spec.dir

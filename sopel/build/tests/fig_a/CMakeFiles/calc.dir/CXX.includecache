@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pracownicy/azimniak/magister/sopel/tests/common.hpp
+iostream
+-
+iomanip
+-
+set
+-
+string
+-
+sstream
+-
+vector
+-
+boost/units/systems/si.hpp
+-
+
+/home/pracownicy/azimniak/magister/sopel/tests/fig_a/bins.hpp
+
+/home/pracownicy/azimniak/magister/sopel/tests/fig_a/calc.cpp
+cstdlib
+-
+set
+-
+string
+-
+sstream
+-
+../common.hpp
+/home/pracownicy/azimniak/magister/sopel/tests/common.hpp
+bins.hpp
+/home/pracownicy/azimniak/magister/sopel/tests/fig_a/bins.hpp
+

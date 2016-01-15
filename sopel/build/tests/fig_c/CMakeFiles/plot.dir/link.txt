@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/plot.dir/plot.cpp.o  -o plot -rdynamic -lboost_iostreams -lboost_system -lboost_filesystem 
